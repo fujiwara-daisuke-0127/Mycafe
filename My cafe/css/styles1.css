@@ -1,0 +1,18 @@
+html{background-color: black; color: white;}
+header h1{text-align: center; padding-top: 32px;}
+header .icon{
+  width: 140px; height: 140px; border-radius: 50%; border:3px solid black ;
+margin-top: 24px;}
+
+.サイトの説明1{display: flex; justify-content: center;}
+.サイトの説明2{padding-left: 16px; line-height: 1.8;}
+
+.最新の画像{text-align: center; padding-top: 24px;}
+
+.最新情報{padding-left: 60px;}
+
+li a{color: white; font-size: larger;}
+
+footer{text-align: center; padding: 64px;}
+
+.画像の説明{text-align: center;}
